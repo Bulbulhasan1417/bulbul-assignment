@@ -53,3 +53,26 @@
     top: 8px;
     left: 160px;
 }
+/* footer */
+.bg-black {
+    background: #151414;
+    display: flex;
+    justify-content: space-around;
+  }
+  .bg-black p {
+    color: white;
+  }
+  .bg-black h1 {
+    color: white;
+  }
+  .margin {
+    padding: 70px;
+  }
+  .top {
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+  }
+  .gap{
+    gap: 100px;
+  }
